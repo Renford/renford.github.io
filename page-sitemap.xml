@@ -7,6 +7,13 @@
     </url>
     
     <url>
+        <loc>http://chaofree.club/about/</loc>
+        <lastmod>2017-12-26T06:46:44.110Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://chaofree.club/tags/</loc>
         <lastmod>2017-12-26T03:36:16.107Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -16,13 +23,6 @@
     <url>
         <loc>http://chaofree.club/archive/</loc>
         <lastmod>2017-12-26T03:36:15.864Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://chaofree.club/about/</loc>
-        <lastmod>2017-12-26T03:36:15.861Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
